@@ -1,0 +1,13 @@
+text,label
+"Internet is not working in my hostel","network"
+"WiFi keeps disconnecting every hour","network"
+"Assignment deadline seems unclear","academic"
+"Professor didn't show up for class","academic"
+"Mess food is cold and tasteless","mess"
+"Cooked food is undercooked","mess"
+"Library books are missing","library"
+"Library closes early","library"
+"Lights in room are not working","maintenance"
+"Fan not spinning in my room","maintenance"
+"Hostel gate security is weak","security"
+"Stranger roaming near hostel at night","security"

@@ -1,0 +1,12 @@
+timestamp,complaint,predicted_top,max_prob
+2025-12-11T07:04:28.591215,wifi not working,network,0.36656689907553563
+2025-12-11T07:04:53.397980,fungus in hostel,network,0.3308462429282284
+2025-12-11T07:37:38.769744,fungus in hostel,hostel,0.22395426816380004
+2025-12-11T07:44:44.345809,Assignment deadline is not clear,mess,0.2121212121212121
+2025-12-11T07:48:49.463348,Library books are missing from the shelf,library,0.22303927650118296
+2025-12-11T07:52:18.735570,Assignment deadline is not clear,mess,0.2121212121212121
+2025-12-11T08:08:26.852993,Library books are missing from the shelf,library,0.22303927650118296
+2025-12-11T08:08:27.285968,Library books are missing from the shelf,library,0.22303927650118296
+2025-12-11T08:08:46.483892,Fungus in washroom wal,maintenance,0.25787672925689853
+2025-12-11T08:09:06.051205,oo much noise in hostel at night,hostel,0.261079254516929
+2025-12-11T08:09:11.087900,too much noise in hostel at night,hostel,0.261079254516929
