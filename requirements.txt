@@ -1,7 +1,5 @@
-scikit-learn
-pandas
-nltk
-joblib
 flask
-flask-cors
-python-dotenv
+gunicorn
+numpy
+pandas
+scikit-learn
